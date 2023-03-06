@@ -38,7 +38,8 @@ El usuario administrador es el encargado de dar de alta a los usuarios creadores
 ## Para instalar el sistema, seguir los siguientes pasos:
 1. Clonar el repositorio en la carpeta raíz del servidor web:
 
-```git clone https://github.com/tuusuario/turepositorio.git
+```
+git clone https://github.com/tuusuario/turepositorio.git
 
 ```
 2. Una vez clonado el proyecto accedemos a el desde la terminal a la carpeta del proyecto ./cursos-online
