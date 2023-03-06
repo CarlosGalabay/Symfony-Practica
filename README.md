@@ -1,4 +1,5 @@
-# Este sistema permite a los usuarios suscribirse a cursos en línea, con las siguientes 
+# Sistema de suscripción a cursos en línea
+## Este sistema permite a los usuarios suscribirse a cursos en línea, con las siguientes 
 
 Este sistema permite a los usuarios suscribirse a cursos en línea, con las siguientes características:
 
